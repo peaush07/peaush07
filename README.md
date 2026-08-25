@@ -1,6 +1,6 @@
 <div align="center">
   <h1>⚡ Peaush Paul</h1>
-  <p><b>Cloud-Native Systems & Golang Backend Engineer | Open Source Contributor</b></p>
+  <p><b>Cloud-Native Systems | Full-Stack Web & Mobile App Developer | CNCF Contributor</b></p>
 
   [![GitHub Followers](https://img.shields.io/github/followers/peaush07?style=for-the-badge&color=00ADD8&labelColor=101827)](https://github.com/peaush07)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Peaush_Paul-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101827)](https://www.linkedin.com/in/peaush07/)
@@ -10,27 +10,41 @@
 
 ---
 
-### 👨‍💻 About Me & Engineering Focus
+### 👨‍💻 About Me & Technical Spectrum
 
-Hello! I'm **Peaush Paul**, a passionate **Cloud-Native Systems & Golang Backend Engineer** based in Kolkata, India. I specialize in building high-throughput microservices, secure developer infrastructure tooling, and cloud-native management platforms.
+Hello! I'm **Peaush Paul**, a versatile **Systems Engineer, Full-Stack Web Developer, and Cross-Platform Mobile App Developer** based in Kolkata, India. I build end-to-end digital solutions—ranging from high-throughput Golang microservices and CNCF cloud infrastructure to sleek, responsive web applications and cross-platform mobile apps.
 
-My core focus lies in the **CNCF (Cloud Native Computing Foundation)** ecosystem, where I actively contribute to **Meshery**, **MeshKit**, and **Model Context Protocol (MCP)** server implementations. I am deeply committed to open-source software engineering, clean code architecture, and high-performance Go backend systems.
+My work spans the entire software engineering stack: architecting distributed backends, engineering modern web interfaces (React/Next.js), building native-feel mobile applications (Flutter/React Native), and contributing to open-source **CNCF (Cloud Native Computing Foundation)** ecosystem tools like **Meshery**.
 
-#### 🚀 What I Do:
-- 🏎️ **High-Performance Golang Systems**: Crafting low-latency, concurrent backend services, custom HTTP/gRPC API layers, and sub-microsecond in-memory processing engines.
-- 🛡️ **Zero-Trust & Security Boundaries**: Architecting SDK-agnostic secret sanitizers, payload redactor engines, and secure authentication boundaries for cloud management APIs.
-- 🤖 **Model Context Protocol (MCP) & AI Tooling**: Building secure MCP servers enabling AI models (Claude, Cursor, VS Code) to interact safely with live Kubernetes topologies and infrastructure designs.
-- 📦 **DevOps & Infrastructure Automation**: Designing multi-stage Docker builds, GitHub Actions CI/CD pipelines, automated release workflows, and Linux system integrations.
+#### 🚀 Core Engineering Pillars:
+
+- 📱 **Cross-Platform Mobile App Development**: Crafting fluid, intuitive, and responsive mobile applications using **Flutter & Dart** and **React Native**. Experienced in state management, native plugin integrations, responsive layout math, and mobile CI/CD pipelines.
+- 🌐 **Modern Full-Stack Web Development**: Building high-performance, SEO-optimized web applications with **React**, **Vite**, **Next.js**, **Node.js**, **HTML5/CSS3**, and **TypeScript**. Focused on rich visual aesthetics, micro-animations, fast CWV metrics, and clean API consumption.
+- 🏎️ **High-Performance Golang Backend Systems**: Architecting concurrent microservices, low-latency gRPC/REST APIs, sub-microsecond in-memory processing engines, and **MeshKit** error frameworks.
+- 🛡️ **Zero-Trust & Security Boundaries**: Designing SDK-agnostic secret redactor engines, token sanitizers, and secure authentication boundaries.
+- 🤖 **Model Context Protocol (MCP) & AI Integration**: Developing secure MCP servers connecting AI development environments (Claude Desktop, Cursor, VS Code) to live infrastructure management APIs.
 
 ---
 
 ### 🎯 Engineering Philosophy
 
-> *"Code clarity, security boundaries, and empirical performance metrics come first."*
+> *"Clean architecture, intuitive UX design, security boundaries, and empirical performance come first."*
 
-- **Test-Driven Development (TDD)**: I believe every line of production code should be backed by comprehensive unit test suites and regression safeguards.
-- **Decoupled Architecture**: Designing narrow, interface-driven boundaries to maintain low coupling and high testability across services.
-- **Continuous Learning & Mentorship**: Deeply engaged in the global open-source community, collaborating with maintainers, and contributing to CNCF initiatives.
+- **Full-Spectrum Design & Code**: Seamlessly bridging backend infrastructure and front-end user experience with modern aesthetics and robust code foundations.
+- **Test-Driven Development (TDD)**: Ensuring rigorous unit testing, integration verification, and code quality across web, mobile, and backend codebases.
+- **Continuous Learning & Mentorship**: Deeply engaged in global open-source communities, collaborating with maintainers, and contributing to CNCF initiatives.
+
+---
+
+### 🛠️ Tech Stack & Skills Matrix
+
+```gcode
+Mobile & Apps : Flutter (Dart), React Native, Mobile UI/UX, Android CLI, iOS Integration
+Web Frontend  : React.js, Next.js, Vite, HTML5, Vanilla CSS, Tailwind, JavaScript (ES6+), TypeScript
+Backend & Systems: Golang (1.22+), Node.js, C/C++, Python 3, RESTful APIs, gRPC, SQL
+Cloud-Native  : Kubernetes, Docker, CNCF Meshery, MeshSync, MeshKit, Model Context Protocol (MCP)
+DevOps & Tools: GitHub Actions CI/CD, Multi-Stage Docker, Firebase, Linux Systems, Makefiles
+```
 
 ---
 
@@ -38,22 +52,10 @@ My core focus lies in the **CNCF (Cloud Native Computing Foundation)** ecosystem
 
 - **Linux Foundation Certified / Open Source Contributor** (`LFC102`)
 - **LFX Mentorship 2026 Term 3 Candidate** — CNCF Meshery MCP Server
-- **8/8 PASSing Unit Test Matrix & 1.3M ops/sec Sub-Microsecond Benchmark Author**
-
----
-
-### 🛠️ Tech Stack & Systems Expertise
-
-```gcode
-Languages    : Golang (1.22+), C/C++, Python 3, SQL, Bash
-Cloud-Native : Kubernetes, Docker, CNCF Meshery, MeshSync, MeshKit
-Protocols    : Model Context Protocol (MCP - stdio/SSE), gRPC, REST, JSON-RPC 2.0
-DevOps & CI  : GitHub Actions, Multi-Stage Docker, Makefiles, Linux Systems
-Security     : Zero-Trust Boundary Redaction, Token Scrubbing, JWT Bearer Auth
-```
+- **Author of 3 Live CNCF Code PRs & 1.3M ops/sec Sub-Microsecond Benchmark Engine**
 
 ---
 
 <div align="center">
-  <sub>Designed with open-source excellence and engineering precision.</sub>
+  <sub>Designed with open-source excellence and full-stack engineering precision.</sub>
 </div>
