@@ -1,13 +1,21 @@
 <div align="center">
 
-  <!-- Animated Typing Header SVG -->
-  <a href="https://github.com/peaush07">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&pause=1000&color=00F3FF&center=true&vCenter=true&width=750&lines=⚡+Hi%2C+I'm+Peaush+Paul!;Cloud-Native+%26+Golang+Systems+Engineer;CNCF+Meshery+Core+Contributor;Full-Stack+Web+%26+Flutter+Mobile+Developer" alt="Typing SVG" />
-  </a>
+  <!-- Retro Pixel Art ASCII Header -->
+  <pre>
+   _____   ______         _   _  _____ _    _   _____   ___   _   _ _     
+  |  __ \ |  ____|  /\   | | | |/ ____| |  | | |  __ \ / _ \ | | | | |    
+  | |__) || |__    /  \  | | | | (___ | |__| | | |__) | /_\ \| | | | |    
+  |  ___/ |  __|  / /\ \ | | | |\___ \|  __  | |  ___/|  _  | | | | |    
+  | |     | |____/ ____ \| |_| |____) | |  | | | |    | | | | |_| | |____ 
+  |_|     |______/_/    \_\___/|_____/|_|  |_| |_|    |_| |_|\___/|______|
+  </pre>
 
-  <br/><br/>
+  <h3>👋 Welcome to my Profile!</h3>
+  <p><b>Cloud-Native Systems | Full-Stack Web & Mobile App Developer | CNCF Contributor</b></p>
 
-  <!-- Animated Badge Row -->
+  <br/>
+
+  <!-- Social & Info Card -->
   <a href="https://github.com/peaush07">
     <img src="https://img.shields.io/badge/GitHub-peaush07-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
@@ -27,17 +35,11 @@
 
 ### 👨‍💻 About Me
 
-```yaml
-Name: Peaush Paul
-Location: Kolkata, India (UTC+5:30)
-Primary Focus: CNCF Cloud-Native Systems, Microservices & Developer Tooling
-Certification: Linux Foundation Certified / Open Source Contributor (LFC102)
-Current Role: LFX Mentorship Candidate (CNCF Meshery MCP Server)
-```
-
 - 🔭 **Currently Building**: Model Context Protocol (MCP) server & secret boundary engines for **CNCF Meshery**.
 - 📱 **Mobile & Web Apps**: Engineering cross-platform mobile apps with **Flutter & Dart** and full-stack web platforms with **React/Next.js**.
 - 🏎️ **High-Performance Systems**: Designing concurrent Golang microservices and modern C++20 lock-free ring buffer engines.
+- 📜 **Certification**: Linux Foundation Linux Certified / Open Source Contributor (**LFC102**).
+- 📍 **Location**: Kolkata, India (UTC+5:30)
 
 ---
 
@@ -45,7 +47,7 @@ Current Role: LFX Mentorship Candidate (CNCF Meshery MCP Server)
 
 <div align="center">
 
-  <!-- Row 1: Languages -->
+  <!-- Row 1: Languages & Core Systems -->
   <img src="https://img.shields.io/badge/GOLANG-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -55,7 +57,7 @@ Current Role: LFX Mentorship Candidate (CNCF Meshery MCP Server)
 
   <br/><br/>
 
-  <!-- Row 2: Web & Mobile -->
+  <!-- Row 2: Frameworks & Web / Mobile -->
   <img src="https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/NEXT.JS-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/FLUTTER-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
@@ -65,7 +67,7 @@ Current Role: LFX Mentorship Candidate (CNCF Meshery MCP Server)
 
   <br/><br/>
 
-  <!-- Row 3: Cloud-Native & DevOps -->
+  <!-- Row 3: Cloud-Native, DevOps & Infrastructure -->
   <img src="https://img.shields.io/badge/KUBERNETES-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
   <img src="https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/CNCF_MESHERY-00B4D8?style=for-the-badge&logo=cncf&logoColor=white"/>
@@ -78,21 +80,23 @@ Current Role: LFX Mentorship Candidate (CNCF Meshery MCP Server)
 
 ---
 
-### 📊 Animated GitHub Activity & Statistics
+### 🕹️ Pacman Contribution Graph
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/peaush07/peaush07/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%"/>
+</div>
+
+---
+
+### 📊 GitHub Activity & Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=peaush07&show_icons=true&theme=dark&hide_border=true&count_private=true" height="175" alt="stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=peaush07&layout=compact&theme=dark&hide_border=true" height="175" alt="top languages"/>
 </div>
 
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=peaush07&theme=dark&hide_border=true" alt="streak stats" width="70%"/>
-</div>
-
 ---
 
 <div align="center">
-  <sub>Built with animated typing effects and open-source engineering precision.</sub>
+  <sub>Built with retro passion and open-source engineering precision.</sub>
 </div>
