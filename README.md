@@ -10,6 +10,24 @@
 
 ---
 
+### 🏆 Key Achievements & Engineering Milestones
+
+- 🌐 **CNCF Open Source Leadership**:
+  - Authored **3 Live Production Pull Requests** directly on official `meshery-extensions/meshery-mcp-server` repository (**PR #46**, **PR #47**, **PR #48**).
+  - Adopted 5-point unit test criteria officially integrated into CNCF Meshery development meeting agenda.
+- ⚡ **Sub-Microsecond Benchmark Performance**:
+  - Engineered high-throughput Golang in-memory redactor engine achieving **1,363,168 ops/sec** (`<883 ns/op`) execution speed.
+- 🔒 **Zero-Trust Security Engine**:
+  - Designed SDK-agnostic response boundary secret redactor scrubbing sensitive keys, tokens, and KubeConfig patterns before context streaming to AI models.
+- 📜 **Global Certifications & Community Membership**:
+  - **Linux Foundation Certified / Open Source Contributor** (`LFC102`).
+  - **LFX Mentorship 2026 Term 3 Candidate** (CNCF Meshery MCP Server).
+  - Official **Layer5 Community Member** (`layer5.io/newcomers`).
+- 📦 **End-to-End Infrastructure Reference Build**:
+  - Built standalone reference implementation repo featuring GitHub Actions CI/CD pipelines, multi-stage Alpine Docker containerization, and interactive Mermaid System Architecture diagrams.
+
+---
+
 ### 👨‍💻 About Me & Technical Spectrum
 
 Hello! I'm **Peaush Paul**, a versatile **Systems Engineer, Full-Stack Web Developer, and Cross-Platform Mobile App Developer** based in Kolkata, India. I build end-to-end digital solutions—ranging from high-throughput Golang microservices and CNCF cloud infrastructure to sleek, responsive web applications and cross-platform mobile apps.
@@ -45,14 +63,6 @@ Backend & Systems: Golang (1.22+), Node.js, C/C++, Python 3, RESTful APIs, gRPC,
 Cloud-Native  : Kubernetes, Docker, CNCF Meshery, MeshSync, MeshKit, Model Context Protocol (MCP)
 DevOps & Tools: GitHub Actions CI/CD, Multi-Stage Docker, Firebase, Linux Systems, Makefiles
 ```
-
----
-
-### 📜 Certifications & Achievements
-
-- **Linux Foundation Certified / Open Source Contributor** (`LFC102`)
-- **LFX Mentorship 2026 Term 3 Candidate** — CNCF Meshery MCP Server
-- **Author of 3 Live CNCF Code PRs & 1.3M ops/sec Sub-Microsecond Benchmark Engine**
 
 ---
 
