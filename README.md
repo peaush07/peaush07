@@ -21,16 +21,6 @@ Architecting high-performance, secure, cloud-native microservices and developer 
 
 ---
 
-### 🏆 Featured CNCF Contributions (`meshery-extensions/meshery-mcp-server`)
-
-| Pull Request | Feature & Architectural Highlights | Status / Benchmarks |
-| :--- | :--- | :--- |
-| **[PR #46](https://github.com/meshery-extensions/meshery-mcp-server/pull/46)** | **SDK-Agnostic Response Boundary Secret Redactor & MeshKit Error Framework**<br/>• In-memory deep-copy map sanitizer preventing credential leaks to AI models.<br/>• MeshKit-compatible error engine (`1001-MCP`, `1002-MCP`). | **1,363,168 ops/sec** (<883 ns/op)<br/>**8/8 PASSing Unit Tests** |
-| **[PR #47](https://github.com/meshery-extensions/meshery-mcp-server/pull/47)** | **`list_designs` Read-Only MCP Tool & MesheryClient Integration**<br/>• Decoupled REST client interface & Bearer auth token header handling for Issue #30. | **Unit Tested & SanitizeMap Enforced** |
-| **[PR #48](https://github.com/meshery-extensions/meshery-mcp-server/pull/48)** | **Repository Security & `.gitignore` Pattern Fix**<br/>• Resolved broken glob pattern & untracked sensitive `settings.json` for Issue #26. | **0 Merge Conflicts** |
-
----
-
 ### 🛠️ Tech Stack & Systems Expertise
 
 ```gcode
@@ -39,16 +29,6 @@ Cloud-Native : Kubernetes, Docker, CNCF Meshery, MeshSync, MeshKit
 Protocols    : Model Context Protocol (MCP - stdio/SSE), gRPC, REST, JSON-RPC 2.0
 DevOps & CI  : GitHub Actions, Multi-Stage Docker, Makefiles, Linux Systems
 Security     : Zero-Trust Boundary Redaction, Token Scrubbing, JWT Bearer Auth
-```
-
----
-
-### 📊 Performance & Code Benchmark Standard
-
-```text
-goos: linux | goarch: amd64 | cpu: 13th Gen Intel(R) Core(TM) i5-13420H
-BenchmarkSanitizeMap-12     	 1363168	       882.4 ns/op
-BenchmarkSanitizeJSON-12    	  319851	      3449.0 ns/op
 ```
 
 ---
