@@ -5,20 +5,7 @@ Passionate full-stack developer driven by curiosity, clean code, and building so
 ---
 
 ### Connect with me:
-<p align="left">
-  <a href="https://www.linkedin.com/in/peaush07/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin" />
-  </a>
-  <a href="https://www.instagram.com/peaush07/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram" />
-  </a>
-  <a href="https://discord.com/users/peaushpaul4168" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord" />
-  </a>
-  <a href="https://x.com/peaush07" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="x" />
-  </a>
-</p>
+<p align="left"><a href="https://www.linkedin.com/in/peaush07/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin" /></a><a href="https://www.instagram.com/peaush07/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram" /></a><a href="https://discord.com/users/peaushpaul4168" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord" /></a><a href="https://x.com/peaush07" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="x" /></a></p>
 
 ---
 
