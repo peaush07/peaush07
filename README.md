@@ -20,7 +20,11 @@ Passionate full-stack developer driven by curiosity, clean code, and building so
   <img src="https://img.shields.io/badge/🎲_YOLO-Unlocked-red?style=for-the-badge" />
 </p>
 
----
+<div align="center">
+  <img src="https://raw.githubusercontent.com/peaush07/peaush07/main/running_cats.svg" width="100%" alt="2 animated running cats" />
+</div>
+
+<br />
 
 ### Languages and Tools:
 <div align="center">
