@@ -15,9 +15,9 @@
 
   <br/>
 
-  <!-- Social & Info Card -->
-  <a href="https://github.com/peaush07">
-    <img src="https://img.shields.io/badge/GitHub-peaush07-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <!-- Social & Info Badges -->
+  <a href="https://peaush.is-a.dev">
+    <img src="https://img.shields.io/badge/Portfolio-peaush.is--a.dev-FFE600?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Portfolio"/>
   </a>
   <a href="https://www.linkedin.com/in/peaush07/">
     <img src="https://img.shields.io/badge/LinkedIn-Peaush_Paul-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -25,8 +25,8 @@
   <a href="mailto:peaushpaul99@gmail.com">
     <img src="https://img.shields.io/badge/Email-peaushpaul99%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://mentorship.lfx.linuxfoundation.org/">
-    <img src="https://img.shields.io/badge/LFX_Mentorship-2026_Term_3-00B4D8?style=for-the-badge&logo=linuxfoundation&logoColor=white" alt="LFX"/>
+  <a href="https://github.com/peaush07">
+    <img src="https://img.shields.io/badge/GitHub-peaush07-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 
 </div>
@@ -35,6 +35,7 @@
 
 ### 👨‍💻 About Me
 
+- 🌐 **Live Portfolio**: Check out my work at [peaush.is-a.dev](https://peaush.is-a.dev)
 - 🔭 **Currently Building**: Model Context Protocol (MCP) server & secret boundary engines for **CNCF Meshery**.
 - 📱 **Mobile & Web Apps**: Engineering cross-platform mobile apps with **Flutter & Dart** and full-stack web platforms with **React/Next.js**.
 - 🏎️ **High-Performance Systems**: Designing concurrent Golang microservices and modern C++20 lock-free ring buffer engines.
@@ -84,19 +85,4 @@
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/peaush07/peaush07/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%"/>
-</div>
-
----
-
-### 📊 GitHub Activity & Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=peaush07&show_icons=true&theme=dark&hide_border=true&count_private=true" height="175" alt="stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=peaush07&layout=compact&theme=dark&hide_border=true" height="175" alt="top languages"/>
-</div>
-
----
-
-<div align="center">
-  <sub>Built with retro passion and open-source engineering precision.</sub>
 </div>
