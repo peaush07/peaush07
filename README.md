@@ -1,4 +1,6 @@
-# 👋 Hi, I'm Peaush Paul!
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6b21a8,50:9f1239,100:d97706&height=200&section=header&text=Hi,%20I'm%20Peaush%20Paul!&fontSize=45&fontColor=ffffff&animation=fadeIn" width="100%" alt="Header wave banner" />
+</div>
 
 Passionate full-stack developer driven by curiosity, clean code, and building software that makes an impact. Always learning, growing, and shipping. 🚀
 
@@ -46,4 +48,10 @@ Passionate full-stack developer driven by curiosity, clean code, and building so
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/peaush07/peaush07/output/pacman-contribution-graph.svg" alt="Pacman contribution graph" width="100%" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6b21a8,50:9f1239,100:d97706&height=120&section=footer" width="100%" alt="Footer wave banner" />
 </div>
