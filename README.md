@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Peaush Paul
+# 👋 Hi, I'm Peaush Paul!
 
 Passionate full-stack developer driven by curiosity, clean code, and building software that makes an impact. Always learning, growing, and shipping. 🚀
 
@@ -14,6 +14,9 @@ Passionate full-stack developer driven by curiosity, clean code, and building so
   </a>
   <a href="https://discord.com/users/peaushpaul4168" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord" />
+  </a>
+  <a href="https://x.com/peaush07" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="x" />
   </a>
 </p>
 
