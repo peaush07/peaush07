@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6b21a8,50:9f1239,100:d97706&height=200&section=header&text=Hi,%20I'm%20Peaush%20Paul%20👋&fontSize=45&fontColor=ffffff&animation=fadeIn" width="100%" alt="Header wave banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6b21a8,50:9f1239,100:d97706&height=200&section=header&text=Hi,%20I'm%20Peaush%20Paul&fontSize=45&fontColor=ffffff&animation=fadeIn" width="100%" alt="Header wave banner" />
+  <h2>Hi, I'm Peaush Paul <img src="https://raw.githubusercontent.com/peaush07/peaush07/main/wave.gif" width="35" height="35" alt="Waving hand" /></h2>
 </div>
 
 Passionate full-stack developer driven by curiosity, clean code, and building software that makes an impact. Always learning, growing, and shipping. 🚀
