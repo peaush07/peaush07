@@ -23,8 +23,10 @@ Passionate full-stack developer driven by curiosity, clean code, and building so
 ### Languages and Tools:
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,nodejs,express,py,cpp,go,dart,flutter,docker,kubernetes,gcp,linux,fedora,git,github,vscode,figma,firebase&perline=12" alt="languages and tools" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,nodejs,express,py,cpp,go,dart,flutter,docker,kubernetes,gcp,linux,git,github,vscode,figma,firebase&perline=12" alt="languages and tools" />
   </a>
+  <br />
+  <img src="https://img.shields.io/badge/Fedora_Linux-51A2DA?style=for-the-badge&logo=fedora&logoColor=white" alt="Fedora Linux" />
 </div>
 
 ---
