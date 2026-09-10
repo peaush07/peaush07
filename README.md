@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Peaush Paul
+# 👋 Hi, I'm Peaush Paul!
 
 Passionate full-stack developer driven by curiosity, clean code, and building software that makes an impact. Always learning, growing, and shipping. 🚀
 
@@ -22,7 +22,7 @@ Passionate full-stack developer driven by curiosity, clean code, and building so
 ### Languages and Tools:
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,nodejs,express,py,cpp,go,dart,flutter,docker,kubernetes,gcp,git,github,vscode,figma,firebase" alt="languages and tools" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,nodejs,express,py,cpp,go,dart,flutter,docker,kubernetes,gcp,linux,git,github,vscode,figma,firebase" alt="languages and tools" />
   </a>
 </p>
 
