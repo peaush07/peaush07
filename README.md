@@ -37,12 +37,8 @@ Passionate full-stack developer driven by curiosity, clean code, and building so
 
 ---
 
-### 🕹️ Contribution Graph Animation
+### 🕹️ Pacman Contribution Graph
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/peaush07/peaush07/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/peaush07/peaush07/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution grid animation" src="https://raw.githubusercontent.com/peaush07/peaush07/output/github-contribution-grid-snake-dark.svg" width="100%" />
-  </picture>
+<div align="center" style="background-color: #0d1117; padding: 10px; border-radius: 10px;">
+  <img src="https://raw.githubusercontent.com/peaush07/peaush07/output/pacman-contribution-graph.svg" alt="Pacman contribution graph" width="100%" />
 </div>
