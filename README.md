@@ -34,3 +34,11 @@ Passionate full-stack developer driven by curiosity, clean code, and building so
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=peaush07&theme=dark&hide_border=false" alt="peaush07 streak" />
   </a>
 </p>
+
+---
+
+### 🕹️ Contribution Graph Animation
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/peaush07/peaush07/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
+</div>
