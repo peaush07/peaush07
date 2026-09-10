@@ -21,11 +21,11 @@ Passionate full-stack developer driven by curiosity, clean code, and building so
 ---
 
 ### Languages and Tools:
-<p align="left">
+<div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,nodejs,express,py,cpp,go,dart,flutter,docker,kubernetes,gcp,linux,git,github,vscode,figma,firebase" alt="languages and tools" />
   </a>
-</p>
+</div>
 
 ---
 
