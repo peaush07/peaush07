@@ -22,6 +22,9 @@
   <a href="https://www.linkedin.com/in/peaush07/">
     <img src="https://img.shields.io/badge/LinkedIn-Peaush_Paul-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+  <a href="https://discord.com/users/peaushpaul4168">
+    <img src="https://img.shields.io/badge/Discord-peaushpaul4168-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
   <a href="mailto:peaushpaul99@gmail.com">
     <img src="https://img.shields.io/badge/Email-peaushpaul99%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
@@ -36,6 +39,7 @@
 ### 👨‍💻 About Me
 
 - 🌐 **Live Portfolio**: Check out my work at [peaush.is-a.dev](https://peaush.is-a.dev)
+- 💬 **Discord**: Feel free to connect with me `@peaushpaul4168`
 - 🔭 **Currently Building**: Model Context Protocol (MCP) server & secret boundary engines for **CNCF Meshery**.
 - 📱 **Mobile & Web Apps**: Engineering cross-platform mobile apps with **Flutter & Dart** and full-stack web platforms with **React/Next.js**.
 - 🏎️ **High-Performance Systems**: Designing concurrent Golang microservices and modern C++20 lock-free ring buffer engines.
