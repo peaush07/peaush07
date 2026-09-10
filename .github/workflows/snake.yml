@@ -21,6 +21,32 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
 
+      - name: Convert SVG to Natural Dark Theme
+        run: |
+          python3 -c "
+          with open('dist/pacman-contribution-graph.svg', 'r') as f:
+              content = f.read()
+
+          # Replace light background colors with GitHub Dark #0d1117 and #161b22
+          content = content.replace('fill=\"#ffffff\"', 'fill=\"#0d1117\"')
+          content = content.replace('fill=\"#FFFFFF\"', 'fill=\"#0d1117\"')
+          content = content.replace('fill=\"white\"', 'fill=\"#0d1117\"')
+          content = content.replace('fill=\"#ebedf0\"', 'fill=\"#161b22\"')
+          content = content.replace('fill=\"#9be9a8\"', 'fill=\"#0e4429\"')
+          content = content.replace('fill=\"#40c463\"', 'fill=\"#006d32\"')
+          content = content.replace('fill=\"#30a14e\"', 'fill=\"#26a641\"')
+          content = content.replace('fill=\"#216e39\"', 'fill=\"#39d353\"')
+          
+          # Replace black maze lines and black text with electric blue maze and light gray text
+          content = content.replace('stroke=\"#000000\"', 'stroke=\"#388bfd\"')
+          content = content.replace('stroke=\"black\"', 'stroke=\"#388bfd\"')
+          content = content.replace('fill=\"#000000\"', 'fill=\"#8b949e\"')
+          content = content.replace('fill=\"black\"', 'fill=\"#8b949e\"')
+
+          with open('dist/pacman-contribution-graph.svg', 'w') as f:
+              f.write(content)
+          "
+
       - name: push SVGs to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:

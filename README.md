@@ -40,5 +40,5 @@ Passionate full-stack developer driven by curiosity, clean code, and building so
 ### 🕹️ Pacman Contribution Graph
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/peaush07/peaush07/output/pacman-contribution-graph.svg" alt="Pacman contribution graph" width="100%" style="filter: invert(0.93) hue-rotate(180deg); border-radius: 8px;" />
+  <img src="https://raw.githubusercontent.com/peaush07/peaush07/output/pacman-contribution-graph.svg" alt="Pacman contribution graph" width="100%" />
 </div>
