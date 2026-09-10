@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Peaush Paul!
+# 👋 Hi, I'm Peaush Paul
 
 Passionate full-stack developer driven by curiosity, clean code, and building software that makes an impact. Always learning, growing, and shipping. 🚀
 
