@@ -30,11 +30,11 @@ Passionate full-stack developer driven by curiosity, clean code, and building so
 ---
 
 ### GitHub Stats & Streak:
-<p align="left">
+<div align="center">
   <a href="https://github.com/peaush07">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=peaush07&theme=dark&hide_border=false" alt="peaush07 streak" />
   </a>
-</p>
+</div>
 
 ---
 
