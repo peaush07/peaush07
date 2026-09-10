@@ -15,9 +15,6 @@ Passionate full-stack developer driven by curiosity, clean code, and building so
   <a href="https://discord.com/users/peaushpaul4168" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord" />
   </a>
-  <a href="https://peaush.is-a.dev" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/portfolio/default.svg" width="52" height="40" alt="portfolio" />
-  </a>
 </p>
 
 ---
