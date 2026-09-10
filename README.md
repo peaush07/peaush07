@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Peaush Paul
+# 👋 Hi, I'm Peaush Paul!
 
 Passionate full-stack developer driven by curiosity, clean code, and building software that makes an impact. Always learning, growing, and shipping. 🚀
 
@@ -37,8 +37,8 @@ Passionate full-stack developer driven by curiosity, clean code, and building so
 
 ---
 
-### 🕹️ Contribution Graph Animation
+### 🕹️ Pacman Contribution Graph
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/peaush07/peaush07/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
+  <img src="https://raw.githubusercontent.com/peaush07/peaush07/output/pacman-contribution-graph.svg" alt="Pacman animation" width="100%"/>
 </div>
