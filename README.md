@@ -11,9 +11,17 @@ Passionate full-stack developer driven by curiosity, clean code, and building so
 
 ---
 
-### 🏆 Achievements & Badges:
+### 🎨 Layer5 Community Badges:
 <p align="left">
-  <a href="https://cloud.layer5.io/user/444b6201-ab88-4620-827a-f480c8c262dd" target="_blank"><img src="https://img.shields.io/badge/🎨_Design_Pioneer-Layer5-00B39F?style=for-the-badge&logo=meshery&logoColor=white" alt="Layer5 Design Pioneer Badge" /></a>
+  <a href="https://cloud.layer5.io/user/444b6201-ab88-4620-827a-f480c8c262dd" target="_blank">
+    <img src="https://raw.githubusercontent.com/layer5io/layer5/master/src/assets/images/design-pioneer/design-pioneer.svg" width="115" alt="Layer5 Design Pioneer Badge" title="Design Pioneer - Layer5 Cloud" />
+  </a>
+</p>
+
+---
+
+### 🏆 GitHub Achievements:
+<p align="left">
   <img src="https://img.shields.io/badge/🤠_Pair_Extraordinaire-Unlocked-orange?style=for-the-badge" />
   <img src="https://img.shields.io/badge/⚡_Quickdraw-Unlocked-yellow?style=for-the-badge" />
   <img src="https://img.shields.io/badge/🧠_Galaxy_Brain-Unlocked-purple?style=for-the-badge" />
