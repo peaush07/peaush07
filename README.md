@@ -11,7 +11,7 @@ Passionate full-stack developer driven by curiosity, clean code, and building so
 
 ---
 
-### 🎨 Layer5 Community Badges:
+### 🎨 Badges:
 
 [<img src="https://badges.layer5.io/assets/badges/first-design/first-design.png" width="175" alt="Design Pioneer Badge" />](https://cloud.layer5.io/user/444b6201-ab88-4620-827a-f480c8c262dd?tab=badges&badge=first-design)
 
