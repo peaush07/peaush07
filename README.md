@@ -16,6 +16,8 @@ Passionate full-stack developer driven by curiosity, clean code, and building so
 [<img src="https://badges.layer5.io/assets/badges/first-design/first-design.png" width="175" alt="Design Pioneer Badge" />](https://cloud.layer5.io/user/444b6201-ab88-4620-827a-f480c8c262dd?tab=badges&badge=first-design)
 [<img src="https://badges.layer5.io/assets/badges/first-application/first-application.png" width="175" alt="Application Pioneer Badge" />](https://cloud.layer5.io/user/444b6201-ab88-4620-827a-f480c8c262dd?tab=badges&badge=first-application)
 [<img src="https://badges.layer5.io/assets/badges/first-share/first-share.png" width="175" alt="Sharing is Caring Badge" />](https://cloud.layer5.io/user/444b6201-ab88-4620-827a-f480c8c262dd?tab=badges&badge=first-share)
+[<img src="https://badges.layer5.io/assets/badges/need-for-speed/need-for-speed.png" width="175" alt="Need for Speed Badge" />](https://cloud.layer5.io/user/444b6201-ab88-4620-827a-f480c8c262dd?tab=badges&badge=need-for-speed)
+[<img src="https://badges.layer5.io/assets/badges/bring-a-buddy/bring-a-buddy.png" width="175" alt="Bring a Buddy Badge" />](https://cloud.layer5.io/user/444b6201-ab88-4620-827a-f480c8c262dd?tab=badges&badge=bring-a-buddy)
 
 [Get your own badge](https://badges.layer5.io)
 
