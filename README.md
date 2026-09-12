@@ -12,21 +12,12 @@ Passionate full-stack developer driven by curiosity, clean code, and building so
 ---
 
 ### 🎨 Layer5 Community Badges:
-<p align="left">
-  <table border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse;">
-    <tr>
-      <td align="left" bgcolor="#121619" style="background-color: #121619; padding: 24px 32px; border-radius: 12px;">
-        <a href="https://cloud.layer5.io/user/444b6201-ab88-4620-827a-f480c8c262dd" target="_blank">
-          <img src="https://raw.githubusercontent.com/layer5io/layer5/master/src/assets/images/design-pioneer/design-pioneer.svg" width="220" alt="Design Pioneer" />
-        </a>
-        <br /><br />
-        <a href="https://layer5.io/community/handbook/recognition#badges" target="_blank" style="color: #40a9ff; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 14px; text-decoration: underline;">
-          Get your own badge
-        </a>
-      </td>
-    </tr>
-  </table>
-</p>
+
+<a href="https://cloud.layer5.io/user/444b6201-ab88-4620-827a-f480c8c262dd" target="_blank">
+  <img src="https://raw.githubusercontent.com/layer5io/layer5/master/src/assets/images/design-pioneer/design-pioneer.svg" width="200" alt="Design Pioneer Badge" />
+</a>
+<br />
+<a href="https://layer5.io/community/handbook/recognition#badges">Get your own badge</a>
 
 ---
 
