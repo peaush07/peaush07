@@ -14,6 +14,8 @@ Passionate full-stack developer driven by curiosity, clean code, and building so
 ### 🎨 Badges:
 
 [<img src="https://badges.layer5.io/assets/badges/first-design/first-design.png" width="175" alt="Design Pioneer Badge" />](https://cloud.layer5.io/user/444b6201-ab88-4620-827a-f480c8c262dd?tab=badges&badge=first-design)
+[<img src="https://badges.layer5.io/assets/badges/first-application/first-application.png" width="175" alt="Application Pioneer Badge" />](https://cloud.layer5.io/user/444b6201-ab88-4620-827a-f480c8c262dd?tab=badges&badge=first-application)
+[<img src="https://badges.layer5.io/assets/badges/first-share/first-share.png" width="175" alt="Sharing is Caring Badge" />](https://cloud.layer5.io/user/444b6201-ab88-4620-827a-f480c8c262dd?tab=badges&badge=first-share)
 
 [Get your own badge](https://badges.layer5.io)
 
