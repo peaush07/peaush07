@@ -27,6 +27,7 @@ Passionate full-stack developer driven by curiosity, clean code, and building so
   <a href="https://cloud.layer5.io/user/444b6201-ab88-4620-827a-f480c8c262dd?tab=badges&badge=first-interactive-terminal-session" target="_blank"><img src="https://badges.layer5.io/assets/badges/first-interactive-terminal-session/first-interactive-terminal-session.png" width="105" alt="Interactive Terminal Session Badge" /></a>
   <a href="https://cloud.layer5.io/user/444b6201-ab88-4620-827a-f480c8c262dd?tab=badges&badge=first-log-streaming-session" target="_blank"><img src="https://badges.layer5.io/assets/badges/first-log-streaming-session/first-log-streaming-session.png" width="105" alt="Log Streaming Session Badge" /></a>
   <a href="https://cloud.layer5.io/user/444b6201-ab88-4620-827a-f480c8c262dd?tab=badges&badge=first-collaborator" target="_blank"><img src="https://badges.layer5.io/assets/badges/first-collaborator/first-collaborator.png" width="105" alt="First Collaborator Badge" /></a>
+  <a href="https://cloud.layer5.io/user/444b6201-ab88-4620-827a-f480c8c262dd?tab=badges&badge=certified-meshery-contributor" target="_blank"><img src="https://badges.layer5.io/assets/badges/certified-meshery-contributor/certified-meshery-contributor.png" width="105" alt="Certified Meshery Contributor Badge" /></a>
 </p>
 <br />
 <a href="https://badges.layer5.io" target="_blank">Get your own badge</a>
