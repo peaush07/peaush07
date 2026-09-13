@@ -69,3 +69,4 @@ Passionate full-stack developer driven by curiosity, clean code, and building so
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6b21a8,50:9f1239,100:d97706&height=120&section=footer" width="100%" alt="Footer wave banner" />
 </div>
+\n<!-- GitHub Real Achievements Trigger -->
