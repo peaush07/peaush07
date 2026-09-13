@@ -36,17 +36,6 @@ Passionate full-stack developer driven by curiosity, clean code, and building so
 
 ---
 
-### 🏆 GitHub Achievements:
-<p align="left">
-  <img src="https://img.shields.io/badge/🤠_Pair_Extraordinaire-Unlocked-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/⚡_Quickdraw-Unlocked-yellow?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🧠_Galaxy_Brain-Unlocked-purple?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🦈_Pull_Shark-Unlocked-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🎲_YOLO-Unlocked-red?style=for-the-badge" />
-</p>
-
----
-
 ### Languages and Tools:
 <div align="center">
   <a href="https://skillicons.dev">
