@@ -14,12 +14,13 @@ Passionate full-stack developer driven by curiosity, clean code, and building so
 ### 🏆 Layer5 Community Achievements:
 
 <p align="left">
-  <a href="https://cloud.layer5.io/user/444b6201-ab88-4620-827a-f480c8c262dd?tab=badges&badge=first-design" target="_blank"><img src="https://badges.layer5.io/assets/badges/first-design/first-design.png" width="105" alt="Design Pioneer Badge" /></a>
-  <a href="https://cloud.layer5.io/user/444b6201-ab88-4620-827a-f480c8c262dd?tab=badges&badge=first-application" target="_blank"><img src="https://badges.layer5.io/assets/badges/first-application/first-application.png" width="105" alt="Application Pioneer Badge" /></a>
-  <a href="https://cloud.layer5.io/user/444b6201-ab88-4620-827a-f480c8c262dd?tab=badges&badge=first-share" target="_blank"><img src="https://badges.layer5.io/assets/badges/first-share/first-share.png" width="105" alt="Sharing is Caring Badge" /></a>
-  <a href="https://cloud.layer5.io/user/444b6201-ab88-4620-827a-f480c8c262dd?tab=badges&badge=need-for-speed" target="_blank"><img src="https://badges.layer5.io/assets/badges/need-for-speed/need-for-speed.png" width="105" alt="Need for Speed Badge" /></a>
-  <a href="https://cloud.layer5.io/user/444b6201-ab88-4620-827a-f480c8c262dd?tab=badges&badge=bring-a-buddy" target="_blank"><img src="https://badges.layer5.io/assets/badges/bring-a-buddy/bring-a-buddy.png" width="105" alt="Bring a Buddy Badge" /></a>
-  <a href="https://cloud.layer5.io/user/444b6201-ab88-4620-827a-f480c8c262dd?tab=badges&badge=gitops-connected" target="_blank"><img src="https://badges.layer5.io/assets/badges/gitops-connected/gitops-connected.png" width="105" alt="GitOps Connected Badge" /></a>
+  <a href="https://cloud.layer5.io/user/444b6201-ab88-4620-827a-f480c8c262dd?tab=badges&badge=first-design" target="_blank"><img src="https://badges.layer5.io/assets/badges/first-design/first-design.png" width="90" alt="Design Pioneer Badge" /></a>
+  <a href="https://cloud.layer5.io/user/444b6201-ab88-4620-827a-f480c8c262dd?tab=badges&badge=first-application" target="_blank"><img src="https://badges.layer5.io/assets/badges/first-application/first-application.png" width="90" alt="Application Pioneer Badge" /></a>
+  <a href="https://cloud.layer5.io/user/444b6201-ab88-4620-827a-f480c8c262dd?tab=badges&badge=first-share" target="_blank"><img src="https://badges.layer5.io/assets/badges/first-share/first-share.png" width="90" alt="Sharing is Caring Badge" /></a>
+  <a href="https://cloud.layer5.io/user/444b6201-ab88-4620-827a-f480c8c262dd?tab=badges&badge=need-for-speed" target="_blank"><img src="https://badges.layer5.io/assets/badges/need-for-speed/need-for-speed.png" width="90" alt="Need for Speed Badge" /></a>
+  <a href="https://cloud.layer5.io/user/444b6201-ab88-4620-827a-f480c8c262dd?tab=badges&badge=bring-a-buddy" target="_blank"><img src="https://badges.layer5.io/assets/badges/bring-a-buddy/bring-a-buddy.png" width="90" alt="Bring a Buddy Badge" /></a>
+  <a href="https://cloud.layer5.io/user/444b6201-ab88-4620-827a-f480c8c262dd?tab=badges&badge=gitops-connected" target="_blank"><img src="https://badges.layer5.io/assets/badges/gitops-connected/gitops-connected.png" width="90" alt="GitOps Connected Badge" /></a>
+  <a href="https://cloud.layer5.io/user/444b6201-ab88-4620-827a-f480c8c262dd?tab=badges&badge=first-deployment" target="_blank"><img src="https://badges.layer5.io/assets/badges/first-deployment/first-deployment.png" width="90" alt="First Deployment Badge" /></a>
 </p>
 <br />
 <a href="https://badges.layer5.io" target="_blank">Get your own badge</a>
