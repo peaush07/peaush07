@@ -36,6 +36,18 @@ Passionate full-stack developer driven by curiosity, clean code, and building so
 
 ---
 
+### <img src="https://raw.githubusercontent.com/peaush07/peaush07/main/fedora.svg" width="26" height="26" alt="Fedora Logo" /> Fedora Project Achievements:
+
+<p align="left">
+  <a href="https://badges.fedoraproject.org/identity/peaush07" target="_blank"><img src="https://badges.fedoraproject.org/pngs/fas-white-rabbit.png" width="125" alt="White Rabbit Badge" title="White Rabbit - Fedora Community Badge" /></a>
+  <a href="https://badges.fedoraproject.org/identity/peaush07" target="_blank"><img src="https://badges.fedoraproject.org/pngs/wiki-let-me-introduce-myself.png" width="125" alt="Let Me Introduce Myself Badge" title="Let Me Introduce Myself - Fedora Wiki Badge" /></a>
+  <a href="https://badges.fedoraproject.org/identity/peaush07" target="_blank"><img src="https://badges.fedoraproject.org/pngs/tester-01.png" width="125" alt="In Search of the Bull Badge" title="In Search of the Bull - Fedora Quality Tester Badge" /></a>
+</p>
+<br />
+<a href="https://badges.fedoraproject.org/identity/peaush07" target="_blank">View Fedora Badges Profile</a>
+
+---
+
 ### Languages and Tools:
 <div align="center">
   <a href="https://skillicons.dev">
