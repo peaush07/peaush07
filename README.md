@@ -36,7 +36,7 @@ Passionate full-stack developer driven by curiosity, clean code, and building so
 
 ---
 
-### <img src="https://raw.githubusercontent.com/peaush07/peaush07/main/fedora.svg" width="26" height="26" alt="Fedora Logo" /> Fedora Project Achievements:
+### <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fedora/fedora-original.svg" width="32" height="32" align="center" alt="Fedora Logo" /> Fedora Project Achievements:
 
 <p align="left">
   <a href="https://badges.fedoraproject.org/identity/peaush07" target="_blank"><img src="https://badges.fedoraproject.org/pngs/fas-white-rabbit.png" width="125" alt="White Rabbit Badge" title="White Rabbit - Fedora Community Badge" /></a>
