@@ -51,14 +51,6 @@ Passionate full-stack developer driven by curiosity, clean code, and building so
 
 ---
 
-### 📍 Holopin Badges Showcase:
-
-<a href="https://holopin.io/@peaush07" target="_blank">
-  <img src="https://holopin.me/peaush07" alt="@peaush07's Holopin Badges" width="100%" />
-</a>
-
----
-
 ### Languages and Tools:
 <div align="center">
   <a href="https://skillicons.dev">
